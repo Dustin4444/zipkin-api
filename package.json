@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/openzipkin/zipkin-api#readme",
   "devDependencies": {
-    "jest": "^24.7.1",
+    "jest": "^30.4.2",
     "js-yaml": "^3.13.1",
     "protobufjs": "^6.8.8",
     "sway": "^2.0.6"
